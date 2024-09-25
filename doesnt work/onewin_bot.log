@@ -1,0 +1,3 @@
+20:13:18.13 | INFO | Найдено сессий: 1!
+20:13:18.13 | INFO | Проверяю сессии на валидность!
+20:13:19.70 | ERROR | login | Thread +48789573133 | Fiodar22.session | 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://crypto-clicker-backend-go-prod.100hp.app/game/start?user=%7B%22id%22:1251538397,%22first_name%22:%22Fedya%22,%22last_name%22:%22%22,%22username%22:%22yrmkvos%22,%22language_code%22:%22pl%22,%22allows_write_to_pm%22:true%7D&chat_instance=8797997532151378518&chat_type=sender&start_param=refId707649803&auth_date=1727287991&hash=97d945e8d8bac1ac74424e224c749fcec60e005811474be3d8bf522aa50a4e51')
