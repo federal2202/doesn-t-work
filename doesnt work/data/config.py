@@ -1,6 +1,6 @@
 # api id, hash
-API_ID = 21654633
-API_HASH = 'f5372451107097616c4bc58f7106b03d'
+API_ID = 'your API_id (int)'
+API_HASH = 'your api hash'
 
 USE_TG_BOT = False # True if you want use tg, else False
 BOT_TOKEN = '283993:kdmioieiweikiokeocki4okew' # API TOKEN get in @BotFather
